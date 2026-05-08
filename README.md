@@ -706,12 +706,6 @@ This project is licensed under the MIT License - see [LICENSE](LICENSE) file for
 **Maintainers:**
 - Rajasekhar ([@rajasekhar1103](https://github.com/rajasekhar1103))
 
-**Support:**
-- 📧 Email: support@example.com
-- 💬 Discussions: [GitHub Discussions](https://github.com/rajasekhar1103/code-plagiarism-detection/discussions)
-- 🐛 Issues: [GitHub Issues](https://github.com/rajasekhar1103/code-plagiarism-detection/issues)
-
----
 
 <div align="center">
 
