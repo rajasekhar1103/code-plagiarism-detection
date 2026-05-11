@@ -1,0 +1,17 @@
+#!/bin/sh
+# Pre-commit hook for code quality checks
+
+echo "Running pre-commit checks..."
+
+# Format files with Prettier
+npm run format
+
+# Lint files with ESLint
+npm run lint
+
+if [ $? -ne 0 ]; then
+  echo "Linting failed. Commit aborted."
+  exit 1
+fi
+
+echo "Pre-commit checks passed!"
