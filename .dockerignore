@@ -1,0 +1,22 @@
+# Dockerignore file
+
+node_modules/
+npm-debug.log
+build/
+dist/
+.git/
+.gitignore
+README.md
+.env
+.env.local
+.env.*.local
+.vscode/
+.idea/
+.DS_Store
+*.swp
+*.swo
+.husky/
+.next/
+out/
+coverage/
+.cache/
